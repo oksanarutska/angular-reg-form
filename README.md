@@ -1,3 +1,8 @@
+https://oksanarutska.github.io/angular-reg-form/index.html
+
+
+
+
 # FormReg
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.20.
